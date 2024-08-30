@@ -88,7 +88,7 @@ int main() {
         while (1);
     }
     auto ws = wb.active_sheet();
-        std::vector<int> recent({ 0, 1, 2, 3, 4, 5, 6, 7 });
+        std::vector<int> recent({ 0, 1, 2, 3, 4, 5, 7, 6 });
             int* lRecent = recent.data();
         std::vector<int> rank8({ 7, 0, 1, 2, 3, 4, 5, 6 });
             int* lRank8 = rank8.data();
